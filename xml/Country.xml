@@ -963,7 +963,7 @@
                 <narrative>NETHERLANDS (THE)</narrative>
             </name>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="withdrawn" withdrawal-date="2010-12-10">
             <code>AN</code>
             <name>
                 <narrative>NETHERLAND ANTILLES</narrative>
